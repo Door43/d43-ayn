@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ayn:home|Door43 (ayn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ayn|d43-ayn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ayn/archive/master.zip|d43-ayn.zip]]
+
+**Recent Changes**
+{{changes>ns = ayn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ayn|Ethnologue data]]
+
